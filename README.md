@@ -209,13 +209,7 @@ python -m pip install -r requirements.txt
 
 ---
 
-## 📜 License
-
-(Điền license dự án của bạn ở đây, ví dụ MIT, Apache-2.0,...)
-
----
-
 ## 🙌 Credit / Tác giả
 
 Hệ thống được phát triển cho bài toán giám sát an ninh cục bộ (LAN), sử dụng Raspberry Pi làm server thu thập và dashboard hiển thị real-time, hỗ trợ nhiều camera ESP32-CAM pan/tilt.  
-Maintainer: _điền tên của bạn / nhóm / lớp_.
+Maintainer: Hồ Ấn Triệu / HUTECH 23DRTA1
