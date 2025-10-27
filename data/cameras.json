@@ -1,0 +1,38 @@
+{
+  "TrieuCam": {
+    "type": "esp32",
+    "host": " http://10.241.145.7:9000",
+    "username": "iot",
+    "password": "123456",
+    "pan_ch": 1,
+    "tilt_ch": 2,
+    "pan": 65,
+    "tilt": 90,
+    "last_login": 1761466721.1940482,
+    "device_index": null
+  },
+  "EspCam1": {
+    "type": "esp32",
+    "host": " http://ESP32cam1.local",
+    "username": "hathay",
+    "password": "123456",
+    "pan_ch": 1,
+    "tilt_ch": 2,
+    "pan": 75,
+    "tilt": 90,
+    "last_login": 1761466721.440519,
+    "device_index": null
+  },
+  "Quân": {
+    "type": "esp32",
+    "host": "http://10.241.167.22:9000",
+    "username": "iot",
+    "password": "123456",
+    "pan_ch": 1,
+    "tilt_ch": 2,
+    "pan": 90,
+    "tilt": 90,
+    "last_login": 0.0,
+    "device_index": null
+  }
+}
